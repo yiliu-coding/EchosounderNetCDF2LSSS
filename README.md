@@ -7,4 +7,4 @@ This repository comprises of two main functions:
 2. Post the regions and masks to LSSS via API
   - timefixer ought to be debugged in nc writer
   - multiple shapes of polygon supported
-  - nc writer for surveys shall be updated [currently write empty arrays of the range variable]
+  - nc writer for surveys shall be updated [currently output empty arrays of the range variable]
